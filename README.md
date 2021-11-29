@@ -4,4 +4,5 @@
 ```
 npm start
 ```
-## visit localhost:8000 in your browser
+##
+ visit localhost:8000 in your browser to view client
